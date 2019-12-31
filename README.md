@@ -1,3 +1,11 @@
+_This repo is for studying purposes._0
+
+- [homework week1](https://github.com/hakanErgin/HackYourFuture-Javascript2/tree/master/Week1)
+- [homework week2](https://github.com/hakanErgin/HackYourFuture-Javascript2/tree/master/Week2)
+- [homework week3](https://github.com/hakanErgin/HackYourFuture-Javascript2/tree/master/Week3)
+
+
+---
 > Please help us improve and share your feedback! If you find better tutorials
 or links, please share them by [opening a pull request](https://github.com/HackYourFuture/JavaScript2/pulls).
 
