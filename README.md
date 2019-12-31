@@ -1,4 +1,4 @@
-_This repo is for studying purposes._0
+_This repo is for studying purposes._
 
 - [homework week1](https://github.com/hakanErgin/HackYourFuture-Javascript2/tree/master/Week1)
 - [homework week2](https://github.com/hakanErgin/HackYourFuture-Javascript2/tree/master/Week2)
